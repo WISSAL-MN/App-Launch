@@ -1,0 +1,61 @@
+
+/*.header{
+    background: url("https://www.w3schools.com/w3images/app.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.first {
+    width: 330px;
+    height: 153px;
+    margin-top: -399px;
+    padding-top: 42px;
+    margin-left: 72px;
+    border-radius: 5px;
+    color: blue;
+   /* opacity: 0.60;*/
+   
+  /* 
+}
+.first:hover {
+   
+    background-color: black;
+}
+.btn :hover {
+    background-color: black;
+    border: 1px solid black;
+} */
+/*footer*/
+.footer{
+    background-color: #333;
+    color: white;
+    font-family: sans-serif;
+}
+.footer >div{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    margin-left: 141px;
+    margin-right: -37px;
+}
+.ftr{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 15px;
+   margin-left: 19px;
+   margin-right: 19px;
+}
+.ftr >table  th, td{
+    border-bottom: 1px solid #4433;
+    border-left: 1px solid #4433;
+    border-right: 1px solid #4433;
+    height: 70px;
+    text-align: center;
+}
+.ftr >table:hover {
+    box-shadow: 4px 4px 4px 4px #888888;
+}
+button:hover {
+    color: black;
+    background-color: #ddd;
+}
